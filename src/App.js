@@ -1,8 +1,11 @@
 import './App.css';
+import CardInfo from './pages/CardInfo';
 
 function App() {
   return (
-    <h2>wlcome</h2>
+    <div>
+      <CardInfo />
+    </div>
   );
 }
 
